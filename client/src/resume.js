@@ -1,5 +1,10 @@
+import Paper from '@mui/material/Paper';
+
+
 function Resume() {
-    return;
+    return <Paper sx={{ height: '100vh' }}>
+        foobar
+    </Paper>
 }
 
 export default Resume;
